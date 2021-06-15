@@ -10,5 +10,5 @@ class Controller {
     @GetMapping
     fun get(): String {
         return "test"
-    }gi
+    }
 }
